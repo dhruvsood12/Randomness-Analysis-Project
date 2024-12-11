@@ -1,0 +1,9 @@
+Requirements for my program:
+
+- The modules 'pandas', 'numpy', and 'matplotlib' must be installed.
+- The 'pytest' library must also be installed for running tests.
+
+- The dataset folder must not be moved from its position within the project folder.
+* The folder 'data' should be located at FinalPorject/data/ and should contain the file 'random_guess.csv'.
+
+Thanks!
